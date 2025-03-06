@@ -21,10 +21,7 @@ student/  # Root project folder
 │   │   │   ├── bootstrap.js  
 │   │   ├── images/
 │   ├── templates/  # HTML templates
-│   │   ├── enroll/  # App-specific templates
-│   │   │   ├── student_list.html  
-│   │   │   ├── student_form.html  
-│   │   │   ├── student_confirm_delete.html  
+│── student/ 
 │   ├── __init__.py  
 │   ├── admin.py  
 │   ├── apps.py  
